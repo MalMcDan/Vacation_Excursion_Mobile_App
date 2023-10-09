@@ -1,9 +1,8 @@
-# Rachel McDaniel D308 PA "Your Journey" App 
+# Rachel McDaniel  "Your Journey" App 
 
-** Instructor: ** Carolyn Sher-DeCusatis
 
-# Git Lab Link: 
- https://gitlab.com/wgu-gitlab-environment/student-repos/rmcda72/d308-mobile-application-development-android/-/tree/working_branch?ref_type=heads
+
+
 
 # Purpose
 The purpose of this app is to give users a way to track vacations and excursion. They are able to create a vacation by inputting the vacation title, hotel they will be staying at and the start date and end date of their trip. They are also able to add an excursion to their trip by adding a title and the date their excursion will take place.
