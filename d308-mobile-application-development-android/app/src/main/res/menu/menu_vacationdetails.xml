@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Save Journey"
+        android:id="@+id/vacationsave"/>
+    <item android:title="Delete Journey"
+        android:id="@+id/vacationdelete"/>
+    <item android:title="Add Activity to Journey"
+        android:id="@+id/addVacationExcursions"/>
+    <item android:title="Notify"
+        android:orderInCategory="100"
+        android:id="@+id/notify"/>
+    <item android:title="Share Journey"
+        android:orderInCategory="100"
+        android:id="@+id/shareV"/>
+
+</menu>
